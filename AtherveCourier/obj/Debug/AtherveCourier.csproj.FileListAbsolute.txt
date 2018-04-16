@@ -1,0 +1,9 @@
+C:\work\sample code vs\AtherveCourier\AtherveCourier\bin\Debug\AtherveCourier.exe.config
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.csprojResolveAssemblyReference.cache
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.Form1.resources
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.Properties.Resources.resources
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.csproj.GenerateResource.Cache
+C:\work\sample code vs\AtherveCourier\AtherveCourier\bin\Debug\AtherveCourier.exe
+C:\work\sample code vs\AtherveCourier\AtherveCourier\bin\Debug\AtherveCourier.pdb
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.exe
+C:\work\sample code vs\AtherveCourier\AtherveCourier\obj\Debug\AtherveCourier.pdb
